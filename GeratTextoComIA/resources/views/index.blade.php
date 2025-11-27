@@ -7,5 +7,11 @@
 </head>
 <body>
     <h1>Novo teste</h1>
+    <form action="" method="post">
+        <label for="email">Email</label>
+        <input type="email" name="email" id="email">
+        <label for="senha">Senha</label>
+        <input type="password" name="senha" id="senha">
+    </form>
 </body>
 </html>
